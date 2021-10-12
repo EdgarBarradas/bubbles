@@ -1,0 +1,14 @@
+body{
+  margin: 0px;
+}
+
+svg{
+    display: inline-block;
+    position:fixed;
+}
+
+line{
+   stroke:grey;
+   stroke-linecap:round;
+   stroke-width: 5;
+}
